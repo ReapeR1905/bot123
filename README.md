@@ -1,2 +1,1 @@
-# bot123
-dasdassdfasdfsadf
+İstediğiniz gibi kullanabilirsiniz. package.json temizleyerek RAMi rahatlatın
